@@ -1,73 +1,105 @@
-Project Title:
-Code Café: Smart Coffee Ordering System
+☕ Code Café
 
-Project Type:
-Java GUI-Based Application
+A Smart Coffee Ordering System
 
-Members:
-- JUNIO, IAN CHRISTOPHER L.
-- SARMIENTO, BRYAN JOSEF E.
-- ORTE, RAINAN S.
-- FORONDA, MARC RENJO M.
-- BIACAN, TIFFANY QUENN D.
 
-Project Description:
-Code Café is a Java GUI-based café ordering system designed to help small cafés or coffee shops manage customer orders efficiently. The system allows users to select items from a categorized menu that includes coffee, non-coffee drinks, and snacks, edit selections if mistakes are made, and generate receipts. Orders are displayed in a clear and user-friendly interface and stored using Java arrays or SQL database. The project reduces manual errors, speeds up order processing, and provides simple transaction records.
 
-Features to include as sections with clear headings:
-- Menu Selection (categorized: Coffee, Non-Coffee, Snacks)
-- Order Summary & Receipt (with file saving option: TXT or PDF)
-- Order Management & Edit Orders
-- Search & Filter Menu
-- Simple Reporting (daily totals and popular items)
 
-The README should include:
-- Project Title with emoji
-- Short Introduction
-- Features section (bulleted list)
-- Technologies Used (Java, JavaFX/Swing, SQL if applicable)
-- System Requirements
-- Installation Instructions
-- How to Run the Project
-- Future Improvements (optional section)
-- Contributors section
-- Clean formatting using Markdown
-- Professional tone
 
-Do not make it too long, but make it clear and structured.Project Title:
-Code Café: Smart Coffee Ordering System
 
-Project Type:
-Java GUI-Based Application
+📖 Table of Contents
 
-Members:
-- JUNIO, IAN CHRISTOPHER L.
-- SARMIENTO, BRYAN JOSEF E.
-- ORTE, RAINAN S.
-- FORONDA, MARC RENJO M.
-- BIACAN, TIFFANY QUENN D.
+About the Project
 
-Project Description:
-Code Café is a Java GUI-based café ordering system designed to help small cafés or coffee shops manage customer orders efficiently. The system allows users to select items from a categorized menu that includes coffee, non-coffee drinks, and snacks, edit selections if mistakes are made, and generate receipts. Orders are displayed in a clear and user-friendly interface and stored using Java arrays or SQL database. The project reduces manual errors, speeds up order processing, and provides simple transaction records.
+Features
 
-Features to include as sections with clear headings:
-- Menu Selection (categorized: Coffee, Non-Coffee, Snacks)
-- Order Summary & Receipt (with file saving option: TXT or PDF)
-- Order Management & Edit Orders
-- Search & Filter Menu
-- Simple Reporting (daily totals and popular items)
+Members
 
-The README should include:
-- Project Title with emoji
-- Short Introduction
-- Features section (bulleted list)
-- Technologies Used (Java, JavaFX/Swing, SQL if applicable)
-- System Requirements
-- Installation Instructions
-- How to Run the Project
-- Future Improvements (optional section)
-- Contributors section
-- Clean formatting using Markdown
-- Professional tone
+📌 About the Project
 
-Do not make it too long, but make it clear and structured.
+Code Café is a Java GUI-based café ordering system designed to help small cafés or coffee shops manage customer orders efficiently.
+
+The system allows users to select items from a menu that includes coffee, non-coffee drinks, and snacks, edit their selections if a mistake was made, and generate receipts. Orders are displayed in a clear, user-friendly interface and stored using Java arrays or SQL.
+
+This project reduces manual errors, speeds up order processing, and provides a simple record of transactions.
+
+🚀 Features
+
+Menu Selection
+Users can browse a categorized menu including coffee, non-coffee drinks, and snacks, and select items to order.
+
+Order Summary & Receipt
+Displays the total price of the order and prints a simple receipt for the customer. Receipts can be saved as a file (text or PDF) for download if a printer is unavailable.
+
+Order Management & Edit Orders
+Keeps track of current and past orders in a structured way for easy reference. Users can also edit or remove items from the order if a mistake was made before finalizing.
+
+Search & Filter Menu
+Quickly find drinks by name or category to make ordering faster.
+
+Simple Reporting
+Shows total orders for the day and popular menu items.
+
+👨‍💻 Members
+
+JUNIO, IAN CHRISTOPHER L.
+
+SARMIENTO, BRYAN JOSEF E.
+
+ORTE, RAINAN S.
+
+FORONDA, MARC RENJO M.
+
+BIACAN, TIFFANY QUENN D.☕ Code Café
+
+A Smart Coffee Ordering System
+
+
+
+
+
+
+📖 Table of Contents
+
+About the Project
+
+Features
+
+Members
+
+📌 About the Project
+
+Code Café is a Java GUI-based café ordering system designed to help small cafés or coffee shops manage customer orders efficiently.
+
+The system allows users to select items from a menu that includes coffee, non-coffee drinks, and snacks, edit their selections if a mistake was made, and generate receipts. Orders are displayed in a clear, user-friendly interface and stored using Java arrays or SQL.
+
+This project reduces manual errors, speeds up order processing, and provides a simple record of transactions.
+
+🚀 Features
+
+Menu Selection
+Users can browse a categorized menu including coffee, non-coffee drinks, and snacks, and select items to order.
+
+Order Summary & Receipt
+Displays the total price of the order and prints a simple receipt for the customer. Receipts can be saved as a file (text or PDF) for download if a printer is unavailable.
+
+Order Management & Edit Orders
+Keeps track of current and past orders in a structured way for easy reference. Users can also edit or remove items from the order if a mistake was made before finalizing.
+
+Search & Filter Menu
+Quickly find drinks by name or category to make ordering faster.
+
+Simple Reporting
+Shows total orders for the day and popular menu items.
+
+👨‍💻 Members
+
+JUNIO, IAN CHRISTOPHER L.
+
+SARMIENTO, BRYAN JOSEF E.
+
+ORTE, RAINAN S.
+
+FORONDA, MARC RENJO M.
+
+BIACAN, TIFFANY QUENN D.
